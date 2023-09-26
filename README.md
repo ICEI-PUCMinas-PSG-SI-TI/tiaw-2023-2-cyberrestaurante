@@ -4,7 +4,7 @@ Estrela da Ásia
 ## Alunos integrantes da equipe
 
 * Samyr Endrigo Póvoa de Souza
-* Thiago Soares
+* Thiago Soares de Melo
 * Patrick
 * Derick
 * Manuel Calebe
