@@ -10,8 +10,6 @@ Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Patrick de Oliveira Caetano
 > - Samyr Endrigo Póvoa de Souza
