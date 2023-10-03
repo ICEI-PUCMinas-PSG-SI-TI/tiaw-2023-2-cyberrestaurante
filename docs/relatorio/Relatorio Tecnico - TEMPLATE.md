@@ -9,7 +9,7 @@ Análise e Desenvolvimento de Sistemas.
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Patrick de Oliveira Caetano.
 
