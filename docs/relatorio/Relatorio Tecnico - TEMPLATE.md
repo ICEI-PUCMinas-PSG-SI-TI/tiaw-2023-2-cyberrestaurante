@@ -1,11 +1,11 @@
 # Informações do Projeto
 `Estrela da Ásia`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 Análise e Desenvolvimento de Sistemas.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 ## Participantes
 
