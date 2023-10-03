@@ -15,6 +15,7 @@ Análise e Desenvolvimento de Sistemas
 > - Samyr Endrigo Póvoa de Souza
 > - Derick Eduardo dos Santos Orcelino 
 > - Thiago Soares de Melo
+> - Manuel Calebe da Silva Ribeiro
 > - 
 
 
