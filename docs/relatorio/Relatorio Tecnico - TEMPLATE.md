@@ -1,9 +1,11 @@
 # Informações do Projeto
-`Estrela na Ásia`
+`TÍTULO DO PROJETO`   
 
+Estrela da Ásia
 
-Análise e Desenvolvimento de Sistemas.
+`CURSO` 
 
+Análise e Desenvolvimento de Sistemas
 
 
 ## Participantes
