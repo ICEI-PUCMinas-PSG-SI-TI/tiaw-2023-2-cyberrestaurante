@@ -169,6 +169,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Cliente             | Praticidade no Pedido              | Não atrasar o almoço                   |
 |Administrador       | Alterar o cardápio                 | Remover ou adicionar pratos            |
+|Administrador       | Relatório de Vendas                | Saber o quanto foi vendido             |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
