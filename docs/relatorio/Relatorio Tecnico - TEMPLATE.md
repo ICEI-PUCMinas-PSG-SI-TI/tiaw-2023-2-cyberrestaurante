@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Estrela da Ásia`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+Análise e Desenvolvimento de Sistemas.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -11,11 +11,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> Patrick de Oliveira Caetano.
 
 # Estrutura do Documento
 
