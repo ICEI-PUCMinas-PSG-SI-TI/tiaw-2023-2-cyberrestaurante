@@ -1,9 +1,7 @@
 # Informações do Projeto
-`Título do Projeto`
-Estrela na Ásia
+`Estrela na Ásia`
 
 
-`Curso`
 Análise e Desenvolvimento de Sistemas.
 
 
