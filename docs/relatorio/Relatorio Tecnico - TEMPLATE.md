@@ -13,6 +13,7 @@ Análise e Desenvolvimento de Sistemas
 > Os membros do grupo são: 
 > - Patrick de Oliveira Caetano
 > - Samyr Endrigo Póvoa de Souza
+> - Derick Eduardo dos Santos Orcelino 
 > 
 
 
