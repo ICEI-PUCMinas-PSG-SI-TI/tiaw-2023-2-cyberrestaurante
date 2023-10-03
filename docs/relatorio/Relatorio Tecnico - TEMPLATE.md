@@ -14,7 +14,8 @@ Análise e Desenvolvimento de Sistemas
 > - Patrick de Oliveira Caetano
 > - Samyr Endrigo Póvoa de Souza
 > - Derick Eduardo dos Santos Orcelino 
-> 
+> - Thiago Soares de Melo
+> - 
 
 
 
