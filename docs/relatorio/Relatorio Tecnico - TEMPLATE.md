@@ -88,7 +88,12 @@ Análise e Desenvolvimento de Sistemas
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral do nosso site é auxiliar e facilitar o atendimento de nossos clientes, evitando causar dificuldade para ambas partes. 
+Objetivos específicos: 
+
+1. Facilidade em vizualizar e agendar reservas, disponibilizando um atendimento prático e rápido.
+2. A atualização de cardápios, informando a disponibilidade dos pratos caso esteja fora do cardápio ou em falta, mantendo sempre o cliente informado para que não tenha erros na hora do atendimento e na entrega do pedido.
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
