@@ -106,7 +106,7 @@ Objetivos específicos:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Todos nós alguma vez em nossa vida tivemos alguma frustração relacionada a atendimento de restaurantes, tendo que isso é algo comum e não nescessariamente deve ser ignorado pois acaba sendo algo que prejudica tanto os o atendentes, clientes, proprietários e cozinheiros do estabelecimento. Sendo assim é importante solucionarmos problemas neste quesito e a utilização de um software pode facilitar em grande dos problemas relacionados a atendimento, reservas do restaurante, disponibilidade dos pratos no cardápio e por assim em diante.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
