@@ -237,10 +237,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Cliente            | Praticidade no Pedido              | Não atrasar o almoço                   |
-| Administrador      | Alterar o cardápio                 | Remover ou adicionar pratos            |
-| Administrador      | Relatório de Vendas                | Saber o quanto foi vendido             |
-| Cliente            | Ver se tem mesa disponível pelo site | Não ter que ir no restaurante para saber |
+| Cliente | Praticidade no Pedido              | Não atrasar o almoço                   |
+| Administrador | Alterar o cardápio                 | Remover ou adicionar pratos            |
+| Administrador | Relatório de Vendas                | Saber o quanto foi vendido             |
+| Cliente | Ver se tem mesa disponível pelo site | Não ter que ir no restaurante para saber |
+| Funcionário | Ver os pedidos | Para serem feitos |
+| Funcionário | Gerenciar o pedidos | Remover os que ja foram concluídos |
 
 ## Requisitos
 
