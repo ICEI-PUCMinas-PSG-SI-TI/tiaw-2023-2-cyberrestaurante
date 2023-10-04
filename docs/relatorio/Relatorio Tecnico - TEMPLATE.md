@@ -237,9 +237,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Cliente             | Praticidade no Pedido              | Não atrasar o almoço                   |
-|Administrador       | Alterar o cardápio                 | Remover ou adicionar pratos            |
-|Administrador       | Relatório de Vendas                | Saber o quanto foi vendido             |
+| Cliente            | Praticidade no Pedido              | Não atrasar o almoço                   |
+| Administrador      | Alterar o cardápio                 | Remover ou adicionar pratos            |
+| Administrador      | Relatório de Vendas                | Saber o quanto foi vendido             |
+| Cliente            | Ver se tem mesa disponível pelo site | Não ter que ir no restaurante para saber |
 
 ## Requisitos
 
@@ -270,8 +271,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O estabelecimento deve ter acesso a internet |
+|02| No estabelecimento já deve existir uma rede cabeada e Wi-Fi |
+|03| O acesso ao software será feito somente pela intranet |
 
 
 # Projeto de Interface
