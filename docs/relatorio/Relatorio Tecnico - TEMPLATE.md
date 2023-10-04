@@ -277,7 +277,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Começamos a dividir as tarefas atraves de pequenas reuniões feita pela feramenta de comunição "Discord", onde vamos usar para discutir sobre as sprints, e a forma que vamos conduzir o nosso projeto!
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -320,7 +320,7 @@ Estas são as ferramentas utilizadas até este momento:
 |-----------|-------------------------|---------------|
 | Ferramenta de comunicação | Discord | https://discord.gg/mQx842ZY | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-cyberrestaurante | 
-|Hospedagem do site | Heroku |   | 
+| |  |   | 
 |Editor de codigo | Visual code |  | 
 
 >
@@ -331,14 +331,13 @@ Estas são as ferramentas utilizadas até este momento:
 > 
 > - Editor de código.
 > - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Repositorio de codigo 
+> 
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
+> integração semelhante e por isso foram selecionadas. Para nos Runimos e distribuir as tarefas e falar sobre o que foi feito e o que vamos fazer usamos a ferramenta e comunicação, por fim usamos um repositorio de coigos para compartilhar as tarefas e codigos que ja estão concluidas ou em desenvolvimento para que todos da equipe fiquem cientes e possam fazer modificações.
+> 
 > 
 > **Links Úteis - Hospedagem**:
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
@@ -348,7 +347,7 @@ Estas são as ferramentas utilizadas até este momento:
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As tags, commits e branchs são gerenciadas por um aviso de cada integrante antes de ser alterado ou feito algo no repositorio, atraves de menssagem ou pela reunião remota, apenas um por vez pode fazer as alteraçoes.
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
