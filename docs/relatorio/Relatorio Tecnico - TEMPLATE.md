@@ -297,7 +297,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+nós dividimos as tarafeas entre nos cinco, de tal forma que cada um ficasse com um topico.  E a lista de tarefas ficou assim.
+1 Introdução: Thiago
+2 Especificações do Projeto: Samyr
+3 Projeto de Interface: Patrick, Samyr 
+4 Metodologia: Derick, Thiago
+5 Apresentação: Manuel
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
