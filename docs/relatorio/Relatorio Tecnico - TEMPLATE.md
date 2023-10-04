@@ -59,8 +59,17 @@ Análise e Desenvolvimento de Sistemas
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ Nosso projeto tem como objetivo facilitar problemas comuns relacionados a restaurante, como:
 
+1. Deixar seus clientes esperando por atendimento
+2. Demorar a entregar os pedidos
+3. Atualização de cardápio
+4. Faltar sincronia entre os garçons e a equipe da cozinha
+
+ Como esses problemas são normais nesse contexto, terá como solução:
+ 
+ Ferramentas que disponibilizam o cardápio digital atráves da tela de dispositivos móveis utilizados pelos atendentes com a ideia de consultar as informações dos pratos, ingredientes por exemplo. Ter a possibilidade de ver se o restaurante possui vagas disponíveis, como também mesas e por assim adiante. 
+   
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
