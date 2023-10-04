@@ -144,7 +144,7 @@ Nosso público-alvo são homens e mulheres na faixa dos 18 a 50 anos que tendem 
 
 ## Personas e Mapas de Empatia
 
-Persona 1:
+###Persona 1:
 
 Nome: Sabrina Lara Peixoto
 Idade: 31
@@ -167,7 +167,7 @@ Nunca devemos atrasar o pedido dessa cliente, pois ela fica muito nervosa.
 
 
 
-Persona 2:
+###Persona 2:
 
 Nome: Gustavo Henrique augusto
 Idade: 22
@@ -190,7 +190,7 @@ Nunca devemos tratar ele com indiferença, é uma pessoa muito emotiva
 
 
 
-Persona 3:
+###Persona 3:
 
 Nome: Leonardo Garcia Souza
 Idade: 50
@@ -212,7 +212,7 @@ Nunca devemos:
 Nunca devemos tratar com desrespeito e desprezo.
 
 
-Persona 4:
+###Persona 4:
 
 Nome: Ibsen Souza 
 Idade: 32 
