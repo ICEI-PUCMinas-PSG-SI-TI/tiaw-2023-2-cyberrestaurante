@@ -165,7 +165,7 @@ Nosso público-alvo são homens e mulheres na faixa dos 18 a 50 anos que tendem 
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona](images/Persona 1.pdf)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
