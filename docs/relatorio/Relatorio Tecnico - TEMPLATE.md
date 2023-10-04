@@ -144,7 +144,90 @@ Nosso público-alvo são homens e mulheres na faixa dos 18 a 50 anos que tendem 
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Persona 1:
+
+Nome: Sabrina Lara Peixoto
+Idade: 31
+Hobby: Gosta de praticar exercício físicos
+Trabalho: Contabilidade
+Personalidade: Introvertida
+Sonhos: Uma casa própria
+
+Objetos Físicos e Lugares:
+Ela usa o celular em qualquer lugar que estiver, e ela usa o computador no trabalho
+
+Objetivos chave:
+Para ter mais praticidade na hora de pedir sua comida durante o horário de almoço
+
+Como devemos tratá-la:
+Devemos tratar com educação e ser rápido no atendimento, comportamentos alegres e simpáticos a deixam feliz
+
+Nunca devemos:
+Nunca devemos atrasar o pedido dessa cliente, pois ela fica muito nervosa.
+
+
+
+Persona 2:
+
+Nome: Gustavo Henrique augusto
+Idade: 22
+Hobby: Gosta ler e escrever
+Trabalho: Professor de educação física
+Personalidade: Extrovertida
+Sonhos: Carro do ano
+
+Objetos Físicos e Lugares:
+Ele tem certa facilidade em utilizar o celular independente da situação.
+
+Objetivos chave:
+Ter acesso em qualquer lugar e praticidade na hora de usar
+
+Como devemos tratá-la:
+Devemos tratar com igualdade sem coisas muito especiais, comportamentos simples.
+
+Nunca devemos:
+Nunca devemos tratar ele com indiferença, é uma pessoa muito emotiva 
+
+
+
+Persona 3:
+
+Nome: Leonardo Garcia Souza
+Idade: 50
+Hobby: Gosta de jogar futebol
+Trabalho: Professor
+Personalidade: Extrovertido
+Sonhos: Viajar o mundo
+
+Objetos Físicos e Lugares:
+Tem certo conhecimento das tecnologias em geral.
+
+Objetivos chave:
+Que se adapte a sua rotina.
+
+Como devemos tratá-la:
+Devemos tratar com respeito e igualdade.
+
+Nunca devemos:
+Nunca devemos tratar com desrespeito e desprezo.
+
+
+Persona 4:
+
+Nome: Ibsen Souza 
+Idade: 32 
+Hobby: andar de moto
+Trabalho: Cordenador Geral
+Personalidade:  Extrovertido
+Sonho: com um mundo melhor
+
+Objetos fisicos e Lugares: Celular e notebook disponiveis no trabalho
+
+Objetivo chave: Pedir almoço com facilidade na hora do almoço
+
+Como devemos tratá-la: Com respeito e igualdade 
+
+Nunca devemos: desrespeitar e nem tratar com indiferença
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
