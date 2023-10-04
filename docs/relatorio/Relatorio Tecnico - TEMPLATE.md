@@ -321,7 +321,7 @@ Estas são as ferramentas utilizadas até este momento:
 | Ferramenta de comunicação | Discord | https://discord.gg/mQx842ZY | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-cyberrestaurante | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Editor de codigo | Visual code | https://figma.com/XXXXXXX | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
