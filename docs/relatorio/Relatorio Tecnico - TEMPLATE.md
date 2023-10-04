@@ -136,15 +136,12 @@ Nosso público-alvo são homens e mulheres na faixa dos 18 a 50 anos que tendem 
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Aqui temos a apresentação das Personas, dos requisitos não funcionais, dos requisitos funcionais e também das restrições.
+Usando essas ferramentas temos uma visão melhor sobre o nosso projeto.
 
 ## Personas e Mapas de Empatia
 
-###Persona 1:
+### Persona 1:
 
 Nome: Sabrina Lara Peixoto
 Idade: 31
