@@ -256,6 +256,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de vendas           | MÉDIA |
 |RF-003| Ter um cardápio                         | ALTA |
 |RF-004| Sistema de pagamento                    | ALTA |
+|RF-005| Sistema de gerência de pedidos          | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -265,6 +266,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s | BAIXA | 
 |RNF-003| O software deve suportar várias pessoas ao mesmo tempo | MÉDIA |
+|RNF-004| Ver se têm mesa disponível no restaurante              | MÉDIA |
 
 
 ## Restrições
