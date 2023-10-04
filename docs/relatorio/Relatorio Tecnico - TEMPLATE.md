@@ -117,7 +117,7 @@ Análise e Desenvolvimento de Sistemas
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso público-alvo são homens e mulheres na faixa dos 18 a 50 anos que tendem a ter facilidade ao manuseio com a tecnológia, tendo também conhecimento minímo sobre a cultura para ter interesse em experimentar os alimentos que o restaurante poderá oferecer e que possui interesse culinário asiático. Pessoas que admiram a parte da Ásia que já são acostumadas com as comidas de lá ou que possuem interesse e curiosidade de conhecer e experimentar novos sabores.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
