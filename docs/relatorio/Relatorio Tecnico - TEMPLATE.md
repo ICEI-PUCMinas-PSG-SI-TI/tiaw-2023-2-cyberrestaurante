@@ -228,8 +228,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
-
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Aqui apresentaremos as formas que foram elaboradas de atender os nosso usarios atraves do user flow e wireframes.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
