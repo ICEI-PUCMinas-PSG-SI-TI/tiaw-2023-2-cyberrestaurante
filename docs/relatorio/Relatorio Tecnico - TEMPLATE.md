@@ -259,7 +259,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O wireframe de um restaurante asiático possui uma página inicial com um cabeçalho contendo o logotipo, um menu de navegação, imagens de pratos, categorias de menu, destaque do menu, informações de contato, horário de funcionamento, botão de reserva e um rodapé com links importantes. Isso cria uma estrutura intuitiva para os visitantes explorarem o menu e fazerem reservas
 
-> ![Exemplo de Wireframe](images/dbeddf83395121.5d3ac542e8786.png)
+ ![Exemplo de Wireframe](images/dbeddf83395121.5d3ac542e8786.png)
 
 
 # Metodologia
