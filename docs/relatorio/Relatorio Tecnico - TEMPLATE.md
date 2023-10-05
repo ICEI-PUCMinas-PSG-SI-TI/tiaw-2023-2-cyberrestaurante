@@ -232,21 +232,57 @@ Aqui apresentaremos as formas que foram elaboradas de atender os nosso usarios a
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+O User Flow é uma espécie de diagrama utilizado para demonstrar as possibilidades de jornadas do usuário por um produto digital, aplicativo ou plataforma. Ele é criado pelo de design com base no briefing e nas pesquisas que foram realizadas previamente.
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+1. Página inicial do site/app do restaurante:
+O usuário acessa o site ou o aplicativo do restaurante.
+
+2. Explorando o menu:
+O usuário navega pelo menu do restaurante para conhecer as opções disponíveis.
+
+3. Selecionando um prato:
+O usuário seleciona um prato ou pratos que deseja pedir.
+
+4. Personalizando o pedido:
+O usuário pode personalizar o pedido (por exemplo, escolher o nível de picante, substituir ingredientes, etc.).
+
+5. Adicionando ao carrinho:
+O usuário adiciona o(s) prato(s) escolhido(s) ao carrinho de compras.
+
+6. Visualizando o carrinho:
+O usuário visualiza o carrinho para verificar o pedido e o total.
+
+7. Iniciando o processo de reserva:
+Se o usuário desejar fazer uma reserva, ele pode clicar em uma opção de reserva na página (por exemplo, "Reservar uma mesa").
+
+8. Selecionando a data e hora:
+O usuário escolhe a data e a hora desejadas para a reserva.
+
+9. Especificando o tamanho do grupo:
+O usuário indica o número de pessoas no grupo.
+
+10. Fornecendo informações de contato:
+O usuário fornece informações de contato, como nome, número de telefone e endereço de e-mail.
+
+11. Confirmando a reserva:
+O usuário revisa as informações da reserva e confirma o pedido ou a reserva.
+
+12. Realizando o pagamento:
+Se o usuário está fazendo um pedido para entrega ou retirada, ele procede ao pagamento. Se está fazendo uma reserva, ele pode receber uma confirmação da reserva por e-mail ou SMS.
+
+13. Recebendo confirmação:
+O usuário recebe uma confirmação do pedido ou da reserva, juntamente com os detalhes relevantes.
+
+14. Chegando ao restaurante:
+Se o usuário fez uma reserva, ele se dirige ao restaurante na data e hora especificadas. Se fez um pedido para entrega ou retirada, ele aguarda a entrega ou vai ao restaurante para retirar o pedido.
+
+15. Desfrutando da refeição:
+O usuário desfruta da refeição no restaurante ou em casa.
+
+16. Fornecendo feedback:
+Após a refeição, o usuário pode ser convidado a fornecer feedback sobre sua experiência no restaurante.
+![fluxograma-atendimento-restaurante](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-cyberrestaurante/assets/133368906/faabb80e-2b87-4a0e-ae94-ee00df24f7b9)
+
 
 
 ## Wireframes
