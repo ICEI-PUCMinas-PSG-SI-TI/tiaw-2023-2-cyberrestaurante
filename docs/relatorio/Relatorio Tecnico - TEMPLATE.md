@@ -16,7 +16,6 @@ Análise e Desenvolvimento de Sistemas
 > - Derick Eduardo dos Santos Orcelino 
 > - Thiago Soares de Melo
 > - Manuel Calebe da Silva Ribeiro
-> - 
 
 
 
