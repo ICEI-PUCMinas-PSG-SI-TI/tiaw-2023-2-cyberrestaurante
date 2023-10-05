@@ -230,11 +230,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Projeto de Interface
 Aqui apresentaremos as formas que foram elaboradas de atender os nosso usarios atraves do user flow e wireframes.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
 ## User Flow
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
