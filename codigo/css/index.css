@@ -1,0 +1,258 @@
+/* Reset de estilos padrão para garantir consistência */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo geral da página */
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Barra superior */
+.top-bar {
+  background-color: #000; /* Preto */
+  color: #fff; /* Branco */
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ffd700; /* Dourado */
+}
+
+.menu-btn,
+.reserve-btn,
+.search-btn,
+.cta-btn {
+  background-color: #b30000; /* Vermelho Escuro */
+  color: #fff;
+  padding: 10px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.menu-btn:hover,
+.reserve-btn:hover,
+.search-btn:hover,
+.cta-btn:hover {
+  background-color: #333; /* Preto escuro - tom alternativo */
+}
+
+/* Hero section */
+.hero {
+  background-image: url('../css/img/restaurante1800.jpg'); /* Substitua pelo caminho da sua imagem de fundo */
+  background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
+  background-position: center; /* Centraliza a imagem no elemento */
+  height: 100vh; /* Garante que a altura do elemento seja 100% da altura da tela */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Cor do texto na área hero (ajuste conforme necessário) */
+  text-align: center;
+  padding: 100px 20px; /* Ajusta o espaçamento interno conforme necessário */
+}
+
+.hero h2 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+/* Sobre Nós section */
+.about-us {
+  background-image: url('../css/img/sushiman3.jpg'); /* Substitua pelo caminho da sua imagem de fundo */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Cor do texto na área "Sobre Nós" (ajuste conforme necessário) */
+  text-align: center;
+  padding: 100px 20px; /* Ajuste o espaçamento interno conforme necessário */
+}
+
+/* Cardápio section */
+.menu {
+  background-image: url('../css/img/cardapio.jpg'); /* Substitua pelo caminho da sua imagem de fundo */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Cor do texto na área "Cardápio" (ajuste conforme necessário) */
+  text-align: center;
+  padding: 100px 20px; /* Ajuste o espaçamento interno conforme necessário */
+}
+
+/* Footer */
+footer {
+  background-color: #000; /* Preto */
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-logo {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #ffd700; /* Dourado */
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+.footer-links a:hover {
+  color: #b30000; /* Vermelho Escuro - tom alternativo */
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 20px;
+  margin: 0 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  color: #008000; /* Verde */
+}
+
+/* Estilos específicos para dispositivos móveis */
+@media screen and (max-width: 768px) {
+  .top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .search-container {
+    margin-top: 10px;
+  }
+
+  .menu-btn,
+  .reserve-btn,
+  .search-btn,
+  .cta-btn {
+    margin-top: 10px;
+  }
+}
+
+/* Animações */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animated {
+  animation: fadeIn 1s ease-out;
+}
+
+/* Estilos para o Carrossel */
+#menuCarousel {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 8px;
+  padding: 15px;
+  color: #fff;
+}
+
+/* Estilos de setas do Carrossel */
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #b30000; /* Vermelho Escuro */
+  border-radius: 50%;
+}
+/* Seletor específico para o botão "Cardápio" no carrossel */
+#menuCarousel .carousel-item .menu-btn {
+  background-color: rgba(0, 0, 0, 0.7); /* Cor preta com 70% de opacidade */
+}
+
+#menuCarousel .carousel-item .menu-btn:hover {
+  background-color: rgba(0, 0, 0, 0.9); /* Cor preta mais escura com 90% de opacidade ao passar o mouse */
+}
+
+
+
+
+/* Animações */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animated {
+  animation: fadeIn 1s ease-out;
+}
+
+/* Estilos para o Botão Flutuante Transparente e Centralizado */
+.floating-btn {
+  position: absolute;
+  bottom: 50%; /* Posiciona o botão no centro inferior */
+  right: 50%;  /* Posiciona o botão no centro horizontal */
+  transform: translate(50%, 50%); /* Centraliza o botão efetivamente */
+  background-color: transparent;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: 2px solid #b30000; /* Vermelho Escuro */
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.floating-btn:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}

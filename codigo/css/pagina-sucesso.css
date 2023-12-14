@@ -1,0 +1,19 @@
+body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h2 {
+            color: #28a745; /* Verde */
+        }
+
+        p {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+
+        img {
+            width: 200px;
+            margin-top: 20px;
+        }

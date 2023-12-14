@@ -1,0 +1,149 @@
+:root {
+    --vermelho-escuro: #b30000;
+    --preto: #000000;
+    --branco: #ffffff;
+    --cinza-claro: #f2f2f2;
+    --dourado: #ffd700;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+  body {
+    background-image: url("./img/wano.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5%;
+    border-radius: 4%;
+    box-shadow: 3px 3px 1px 0px rgba(0, 0, 0, 0.6);
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--vermelho-escuro);
+  }
+  
+  .label-float input {
+    width: 100%;
+    padding: 5px 5px;
+    display: inline-block;
+    border: 0;
+    border-bottom: 2px solid var(--vermelho-escuro);
+    background-color: transparent;
+    outline: none;
+    font-size: 16px;
+    transition: all .3s ease-out;
+    border-radius: 0;
+  }
+  
+  .label-float {
+    position: relative;
+    padding-top: 13px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  
+  @media (max-width: 600px) {
+    .card {
+      width: 90%;
+      max-width: none;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    button {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    button {
+      font-size: 10pt;
+    }
+  }
+  
+  .label-float input:focus {
+    border-bottom: 2px solid #4038a0;
+  }
+  
+  .label-float label {
+    color: var(--vermelho-escuro);
+    pointer-event: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 13px;
+    transition: all .3s ease-out;
+  }
+  
+  .label-float input:focus + label,
+  .label-float input:valid + label {
+    font-size: 13px;
+    margin-top: 0;
+    color: #4038a0;
+  }
+  
+  button {
+    background-color: transparent;
+    border-color: var(--vermelho-escuro);
+    color: var(--vermelho-escuro);
+    padding: 7px;
+    font-weight: bold;
+    font-size: 12pt;
+    margin-top: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    transition: all .4s ease-out;
+  }
+  
+  button:hover {
+    background-color: var(--vermelho-escuro);
+    color: #fff;
+  }
+  
+  .fa-eye {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    cursor: pointer;
+    color: var(--vermelho-escuro);
+  }
+  
+  #msgError {
+    text-align: center;
+    color: #ff0000;
+    background-color: #ffbbbb;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+  }
+  
+  #msgSuccess {
+    text-align: center;
+    color: #00bb00;
+    background-color: #bbffbe;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+  }
+  
