@@ -1,0 +1,331 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE-edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--
+        Primera meta tags
+    -->
+
+  <title>Estrela da Ásia</title>
+  <meta name="title" content="Estrela Asiática - Sabor da Ásia">
+
+ 
+  <!--
+    Link font google
+   -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Forum&display=swap" rel="stylesheet">
+  <!--
+    CSS
+-->
+  <link rel="stylesheet" href="./style.css">
+
+ 
+
+<body>
+
+  <!--
+        #Preloader
+    -->
+  <div class="preload" data-preaload>
+    <div class="circle"></div>
+    <p class="text">Estrela</p>
+  </div>
+
+
+
+ 
+    <!-- 
+        - #RESERVATION
+      -->
+
+  <section class="reservation">
+    <div class="container">
+
+      <div class="form reservation-form bg-black-10">
+
+      <form action="index.php"   method="post" class="form-left">
+
+          <h2 class="headline-1 text-center">Reserva Online</h2>
+
+          <p class="form-text text-center">
+            Pedido de reserva <a href="tel:123123456" class="link">031 98922-3946</a>
+            preencha o formulário de pedido
+          </p>
+
+          <div class="input-wrapper">
+            <input type="text" name="nome" placeholder="Seu nome" autocomplete="off" class="input-field">
+
+            <input type="tel" name="phone" placeholder="Telefone" autocomplete="off" class="input-field">
+          </div>
+
+          <div class="input-wrapper">
+
+            <div class="icon-wrapper">
+              <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+              <select name="person" class="input-field">
+                <option value="1-person">1 Pessoas</option>
+                <option value="2-person">2 Pessoas</option>
+                <option value="3-person">3 Pessoas</option>
+                <option value="4-person">4 Pessoas</option>
+                <option value="5-person">5 Pessoas</option>
+                <option value="6-person">6 Pessoas</option>
+                <option value="7-person">7 Person</option>
+              </select>
+
+              <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+            </div>
+
+            <div class="icon-wrapper">
+              <ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+              <input type="date" name="data" class="input-field">
+
+              <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+            </div>
+
+            <div class="icon-wrapper">
+              <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+
+              <select name="person" class="input-field">
+                <option value="08:00am">08 : 00 </option>
+                <option value="09:00am">09 : 00 </option>
+                <option value="010:00am">10 : 00 </option>
+                <option value="011:00am">11 : 00 </option>
+                <option value="012:00am">12 : 00 </option>
+                <option value="01:00pm">13 : 00 </option>
+                <option value="02:00pm">14 : 00 </option>
+                <option value="03:00pm">15 : 00 </option>
+                <option value="04:00pm">16 : 00 </option>
+                <option value="05:00pm">17 : 00 </option>
+                <option value="06:00pm">18 : 00 </option>
+                <option value="07:00pm">19 : 00 </option>
+                <option value="08:00pm">20 : 00 </option>
+                <option value="09:00pm">21 : 00 </option>
+                <option value="10:00pm">22 : 00 </option>
+              </select>
+
+              <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+            </div>
+
+          </div>
+
+          <textarea name="message" placeholder="Message" autocomplete="off" class="input-field"></textarea>
+
+          
+
+          <button type="submit" name="submit" class="btn btn-secondary">  
+            <span class="text text-1">Reservar uma mesa</span>
+
+            <span class="text text-2" aria-hidden="true">Reservar uma mesa</span>
+          </button>
+
+        </form>
+
+        <div class="form-right text-center" style="background-image: url('./assets/images/form-pattern.png')">
+
+          <h2 class="headline-1 text-center">Contate-nos</h2>
+
+          <p class="contact-label">Pedido de reserva</p>
+
+          <a href="tel:31 98922-3946" class="body-1 contact-number hover-underline">31 98922-3946</a>
+
+          <div class="separator"></div>
+
+          <p class="contact-label">Localização</p>
+
+          <address class="body-4">
+            Rua Walter Ianni, 255 - São Gabriel, Belo Horizonte - MG, 31980-110
+          </address>
+
+          <p class="contact-label">Hora do almoço</p>
+
+          <p class="body-4">
+            de segunda a Domingo <br>
+            11h00 - 14h30
+          </p>
+
+          <p class="contact-label">Hora do jantar</p>
+
+          <p class="body-4">
+            de segunda a Domingo <br>
+            17h00 - 22h00
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+  </main>
+
+
+  
+
+
+
+
+ 
+  
+
+
+
+
+  
+  <!-- 
+    - #FOOTER
+  -->
+
+  <footer class="footer section has-bg-image text-center"
+    style="background-image: url('./assets/images/footer-bg.jpg')">
+    <div class="container">
+
+      <div class="footer-top grid-list">
+
+        <div class="footer-brand has-before has-after">
+
+          <a href="#" class="logo">
+            <img src="assets/imgs/estrela.png" width="160" height="50" loading="lazy" alt="grilli home">
+          </a>
+
+          <address class="body-4">
+            Rua Walter Ianni, 255 - São Gabriel, Belo Horizonte - MG, 31980-110
+          </address>
+
+          <a href="mailto:booking@grilli.com" class="body-4 contact-link">blayck34@icloud.com</a>
+
+          <a href="tel:+88123123456" class="body-4 contact-link"></a>
+
+          <p class="body-4">
+            Aberto : 09:00 - 23:00
+          </p>
+
+          <div class="wrapper">
+            <div class="separator"></div>
+            <div class="separator"></div>
+            <div class="separator"></div>
+          </div>
+
+
+
+
+
+          <form action="" class="input-wrapper">
+            <div class="icon-wrapper">
+              <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+              <input type="email" name="email_address" placeholder="Seu e-mail" autocomplete="off" class="input-field">
+            </div>
+
+            <button type="submit" class="btn btn-secondary">
+              <span class="text text-1">Subscribe</span>
+
+              <span class="text text-2" aria-hidden="true">Subscribe</span>
+            </button>
+          </form>
+
+        </div>
+
+        <ul class="footer-list">
+
+          <li>
+            <a href="index.html" class="label-2 footer-link hover-underline">Home</a>
+          </li>
+
+          <li>
+            <a href="menu.html" class="label-2 footer-link hover-underline">Menus</a>
+          </li>
+
+          <li>
+            <a href="sobre.html" class="label-2 footer-link hover-underline">Sobre nós</a>
+          </li>
+
+          <li>
+            <a href="chef.html" class="label-2 footer-link hover-underline">Nossos Chefs</a>
+          </li>
+
+          <li>
+            <a href="contato.html" class="label-2 footer-link hover-underline">Contato</a>
+          </li>
+
+        </ul>
+
+        <ul class="footer-list">
+
+          <li>
+            <a href="#" class="label-2 footer-link hover-underline">Facebook</a>
+          </li>
+
+          <li>
+            <a href="#" class="label-2 footer-link hover-underline">Instagram</a>
+          </li>
+
+          <li>
+            <a href="#" class="label-2 footer-link hover-underline">Twitter</a>
+          </li>
+
+          <li>
+            <a href="#" class="label-2 footer-link hover-underline">Youtube</a>
+          </li>
+
+          <li>
+            <a href="#" class="label-2 footer-link hover-underline">Google Map</a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div class="footer-bottom">
+
+
+
+      </div>
+
+    </div>
+  </footer>
+
+
+
+
+
+  <!-- 
+    - #BACK TO TOP
+  -->
+
+  <a href="#top" class="back-top-btn active" aria-label="back to top" data-back-top-btn>
+    <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+  </a>
+
+
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
+
+<!--
+    Link JS
+-->
+<script src="script.js"></script>
+<!--
+link iônico
+-->
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
