@@ -139,7 +139,7 @@ function mostrarData(){
     var cardapioHtml = "";
 
     listaPratos.forEach(function (pratos, index){
-        cardapioHtml += '<div class="col-3 m-3">';
+        cardapioHtml += '<div class="col-3 m-1">';
         cardapioHtml += '<div class="card" style="width: 18rem;">';
         cardapioHtml += "<img src=" + pratos.foto + " class=" + "card-img-top" + " alt=" + pratos.nome + " width=" + 300 + " height=" + 170 + ">";
         cardapioHtml += '<div class="card-body">';

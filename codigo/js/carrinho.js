@@ -28,7 +28,7 @@ function mostrarData() {
     var carrinhoHtml = "";
 
     listaCarrinho.forEach(function (pratos, index) {
-        carrinhoHtml += '<div class="col-3 m-3">';
+        carrinhoHtml += '<div class="col-3">';
         carrinhoHtml += '<div class="card" style="width: 18rem;">';
         carrinhoHtml += "<img src=" + pratos.foto + " class=" + "card-img-top" + " alt=" + pratos.nome + " width=" + 300 + " height=" + 170 + ">";
         carrinhoHtml += '<div class="card-body">';
